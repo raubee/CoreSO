@@ -1,0 +1,20 @@
+{
+    "name": "com.adlucem.coreso",
+    "version": "1.0.0",
+    "displayName": "Core SO",
+    "description": "Architecture with Scriptable Objects",
+    "unity": "2019.2",
+    "unityRelease": "3f1",
+    "dependencies": {
+   },
+   "keywords": [
+      "Scriptable Objects",
+      "Type references",
+      "Architecture"
+    ],
+    "author": {
+      "name": "AdLucem",
+      "email": "lois.aubree@gmail.com",
+      "url": "https://arzijin.github.io/about/"
+    } 
+  }

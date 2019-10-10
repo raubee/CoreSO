@@ -1,0 +1,16 @@
+{
+    "name": "AdLucem.CoreSO.Editor",
+    "references": [
+        "GUID:f5135410577b3d647a6789ed96ca55a3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
