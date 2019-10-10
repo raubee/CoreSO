@@ -1,20 +1,29 @@
 {
-    "name": "com.adlucem.coreso",
-    "version": "1.0.0",
-    "displayName": "Core SO",
-    "description": "Architecture with Scriptable Objects",
-    "unity": "2019.2",
-    "unityRelease": "3f1",
-    "dependencies": {
-   },
-   "keywords": [
-      "Scriptable Objects",
-      "Type references",
-      "Architecture"
-    ],
-    "author": {
-      "name": "AdLucem",
-      "email": "lois.aubree@gmail.com",
-      "url": "https://arzijin.github.io/about/"
-    } 
-  }
+  "name": "com.adlucem.coreso",
+  "version": "1.0.0",
+  "displayName": "Core SO",
+  "description": "Architecture with Scriptable Objects",
+  "unity": "2019.2",
+  "unityRelease": "3f1",
+  "dependencies": {},
+  "keywords": [
+    "Scriptable Objects",
+    "Type references",
+    "Architecture",
+    "Unity"
+  ],
+  "author": "AdLucem <lois.aubree@gmail.com> (https://arzijin.github.io/about/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arzijin/CoreSO.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arzijin/CoreSO/issues"
+  },
+  "homepage": "https://github.com/Arzijin/CoreSO#readme"
+}
