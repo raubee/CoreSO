@@ -20,7 +20,7 @@ Add these lines in *Packages/manifest.json* of your project.
   }
 ],
 "dependencies": {
-  "com.adlucem.coreso": "1.0.0",
+  "com.adlucem.coreso": "X.X.X",
   ...
   }
 ```
