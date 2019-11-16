@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace AdLucem.CoreSO
+namespace AdLucem.CoreSO.Types
 {
 	[CreateAssetMenu(menuName = "CINEVR/Variables/Int")]
 	[Serializable]

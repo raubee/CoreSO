@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace AdLucem.CoreSO
+namespace AdLucem.CoreSO.Types
 {
 	public abstract class TypeVariable<T> : ScriptableObject
 	{

@@ -1,6 +1,6 @@
 {
   "name": "com.adlucem.coreso",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "displayName": "Core SO",
   "description": "Architecture with Scriptable Objects",
   "unity": "2019.2",
